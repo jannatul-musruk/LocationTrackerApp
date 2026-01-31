@@ -55,6 +55,8 @@ This Android application is developed as a technical task for the Android Intern
 
 # Developer
 Name: Jannatul Musruk
+
+
 Flow:
 Start Location
    ↓
@@ -70,7 +72,10 @@ Every 5 min:
    DB insert (Room)
         ↓
    Toast / Notification
+
+   
 Location Tracker App – Full Summary:
+
 LocationTrackerApp/
 ├── app/
 │   ├── manifests/
