@@ -56,8 +56,7 @@ This Android application is developed as a technical task for the Android Intern
 # Developer
 Name: Jannatul Musruk
 
-
-🧠 flow 
+ flow 
 Start Location
    ↓
 Permission OK
