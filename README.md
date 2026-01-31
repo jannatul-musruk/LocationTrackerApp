@@ -57,7 +57,7 @@ This Android application is developed as a technical task for the Android Intern
 Name: Jannatul Musruk
 
 
-Flow:
+🧠 flow 
 Start Location
    ↓
 Permission OK
@@ -74,8 +74,8 @@ Every 5 min:
    Toast / Notification
 
    
-Location Tracker App – Full Summary:
-
+📌 Location Tracker App – Full Summary
+1️⃣ Project Structure
 LocationTrackerApp/
 ├── app/
 │   ├── manifests/
