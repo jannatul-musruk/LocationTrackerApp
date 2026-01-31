@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnStartLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Location" />
+
+    <Button
+        android:id="@+id/btnStopLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Location"
+        android:layout_marginTop="8dp"/>
+
+    <Button
+        android:id="@+id/btnFetchAPI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch API"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/txtApiResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="API result will appear here"
+        android:padding="12dp"
+        android:textSize="16sp"/>
+</LinearLayout>
